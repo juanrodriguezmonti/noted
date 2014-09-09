@@ -1,4 +1,4 @@
 noted
 =====
 
-Noted is a Python application for taking notes easy and consistently. Noted has desktop, web and mobile clients.
+Noted lets you take notes amazingly!. It has desktop, web and mobile clients, and it's written in Python.
